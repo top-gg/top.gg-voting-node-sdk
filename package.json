@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Topgg-Volunteer-Staff/topgg-voting-node-sdk.git"
+    "url": "https://github.com/top-gg/topgg-voting-node-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/Topgg-Volunteer-Staff/topgg-voting-node-sdk/issues"
+    "url": "https://github.com/top-gg/topgg-voting-node-sdk/issues"
   },
   "author": "Top.gg <support@top.gg> (https://top.gg)",
   "license": "ISC",
