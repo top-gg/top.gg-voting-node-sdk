@@ -1,0 +1,31 @@
+{
+  "name": "@top-gg/voting-sdk",
+  "version": "0.1.1",
+  "description": "Official Top.gg Voting SDK",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Topgg-Volunteer-Staff/topgg-voting-node-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Topgg-Volunteer-Staff/topgg-voting-node-sdk/issues"
+  },
+  "author": "Top.gg <support@top.gg> (https://top.gg)",
+  "license": "ISC",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.3",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.11.9",
+    "typedoc": "^0.23.20",
+    "typescript": "^4.8.4"
+  }
+}
