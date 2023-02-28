@@ -3,8 +3,8 @@
 The offical vote SDK for Top.gg
 
 # Installation
-npm i @top-gg/voting-sdk
-
+1. Ensure that you're telling your package manager to use the GitHub Package Registry for `@top-gg` packages by putting this in your `.npmrc` file: `@top-gg:registry=https://npm.pkg.github.com`
+2. `npm i @top-gg/voting-sdk`
 
 
 ## Example receiving webhooks
